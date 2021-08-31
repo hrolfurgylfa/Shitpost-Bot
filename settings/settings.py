@@ -16,4 +16,5 @@ RANDOM_LINKS = {
     "RIP for their ears": "https://screenshot.best/image.php?id=QNDI5K.png",
     "Why exactly are the cows dancing?": "https://joinmy.site/invite.php?id=ZAVDWV.jar",
     "Midget?": "https://imageshare.best/news.php?id=J5Z516.mp4",
+    "Bro go check on your mom": "https://tinyurl.com/3zk9tu6p",
 }
